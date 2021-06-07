@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
-- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
+- 🔭 I’m currently working on [Djangol](https://github.com/SunilRathod27/)
 
-- 🌱 I’m currently learning **React JS**,**GraphQL**, **Redux**
+- 🌱 I’m currently learning **Flask**,**Django**, **Python**
 
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+<!-- - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel) -->
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
+<!-- - 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me) -->
 
-- 📫 How to reach me **info@akhilgkrishnan.me**
+- 📫 How to reach me **shrathod515@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
