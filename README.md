@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Rathod</h1>
-<h3 align="center">I'm Sunil Rathod, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.</h3>
+<h3 align="center">I'm Sunil Rathod Django Python Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
