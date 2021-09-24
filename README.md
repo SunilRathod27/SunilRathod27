@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
-- 🔭 I’m currently working on [Django](https://github.com/SunilRathod27/)
+- 🔭 I’m currently working on [NODE JS](https://github.com/SunilRathod27/)
 
 - 🌱 I’m currently learning **Django**, **Python**
 
