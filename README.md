@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NODE JS](https://github.com/SunilRathod27/)
 
-- 🌱 I’m currently learning **Django**, **Python**
+- 🌱 I’m currently learning **Django**, **Python**, **NodeJs*,  **VueJS**
 
 <!-- - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel) -->
 
