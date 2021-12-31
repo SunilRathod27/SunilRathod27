@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Rathod</h1>
-<h3 align="center">I'm Sunil Rathod FULL STACK  Developer.</h3>
+<h3 align="center">I'm Sunil Rathod Node JS  Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
